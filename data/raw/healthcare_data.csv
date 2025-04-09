@@ -1,0 +1,501 @@
+Gender,Age,Smoker,Disease,Recommended_Treatment
+Male,78,Yes,Diabetes,Insulin Therapy
+Female,38,Yes,Diabetes,Insulin Therapy
+Male,49,No,None,General Wellness Program
+Male,40,No,None,General Wellness Program
+Male,50,No,Heart Disease,Aspirin Therapy
+Female,20,No,Diabetes,Insulin Therapy
+Male,35,No,Asthma,Inhaler Treatment
+Male,42,Yes,Hypertension,Beta Blockers
+Male,59,Yes,Hypertension,Beta Blockers
+Female,48,Yes,None,General Wellness Program
+Male,71,Yes,Heart Disease,Aspirin Therapy
+Male,75,No,Hypertension,Beta Blockers
+Male,20,Yes,Diabetes,Insulin Therapy
+Male,57,No,None,General Wellness Program
+Female,63,Yes,Asthma,Inhaler Treatment
+Male,41,No,None,General Wellness Program
+Female,67,No,Asthma,Inhaler Treatment
+Female,49,Yes,None,General Wellness Program
+Female,64,Yes,None,General Wellness Program
+Male,39,Yes,None,General Wellness Program
+Female,40,Yes,Asthma,Inhaler Treatment
+Male,19,No,Asthma,Inhaler Treatment
+Female,44,Yes,None,General Wellness Program
+Female,59,Yes,Hypertension,Beta Blockers
+Female,19,No,Heart Disease,Aspirin Therapy
+Female,43,Yes,Heart Disease,Aspirin Therapy
+Female,34,Yes,Heart Disease,Aspirin Therapy
+Female,57,Yes,Asthma,Inhaler Treatment
+Female,50,Yes,Asthma,Inhaler Treatment
+Female,26,Yes,Hypertension,Beta Blockers
+Male,60,No,Heart Disease,Aspirin Therapy
+Male,71,Yes,Heart Disease,Aspirin Therapy
+Female,65,Yes,None,General Wellness Program
+Female,56,Yes,Asthma,Inhaler Treatment
+Female,46,Yes,Heart Disease,Aspirin Therapy
+Male,59,Yes,Hypertension,Beta Blockers
+Female,72,No,Hypertension,Beta Blockers
+Male,43,Yes,Heart Disease,Aspirin Therapy
+Male,52,No,Asthma,Inhaler Treatment
+Male,67,No,Hypertension,Beta Blockers
+Male,42,Yes,None,General Wellness Program
+Male,41,Yes,Hypertension,Beta Blockers
+Female,30,Yes,Diabetes,Insulin Therapy
+Female,77,Yes,Diabetes,Insulin Therapy
+Female,75,No,Asthma,Inhaler Treatment
+Female,24,Yes,Heart Disease,Aspirin Therapy
+Female,74,Yes,Asthma,Inhaler Treatment
+Male,53,Yes,Asthma,Inhaler Treatment
+Female,62,Yes,Asthma,Inhaler Treatment
+Female,37,Yes,Asthma,Inhaler Treatment
+Male,18,Yes,None,General Wellness Program
+Female,25,No,None,General Wellness Program
+Male,63,No,Hypertension,Beta Blockers
+Female,33,Yes,Diabetes,Insulin Therapy
+Male,31,Yes,Asthma,Inhaler Treatment
+Female,29,Yes,Hypertension,Beta Blockers
+Female,68,No,Diabetes,Insulin Therapy
+Male,40,Yes,Heart Disease,Aspirin Therapy
+Male,32,No,None,General Wellness Program
+Male,45,Yes,Diabetes,Insulin Therapy
+Male,51,Yes,Heart Disease,Aspirin Therapy
+Male,19,Yes,Diabetes,Insulin Therapy
+Male,49,Yes,None,General Wellness Program
+Male,40,No,None,General Wellness Program
+Male,39,No,Hypertension,Beta Blockers
+Female,68,Yes,Asthma,Inhaler Treatment
+Female,42,Yes,Diabetes,Insulin Therapy
+Male,75,No,Diabetes,Insulin Therapy
+Female,79,No,Heart Disease,Aspirin Therapy
+Female,78,No,None,General Wellness Program
+Female,39,No,Diabetes,Insulin Therapy
+Female,75,Yes,None,General Wellness Program
+Male,75,No,Diabetes,Insulin Therapy
+Female,39,Yes,Hypertension,Beta Blockers
+Male,66,No,Asthma,Inhaler Treatment
+Female,69,No,Diabetes,Insulin Therapy
+Female,59,No,None,General Wellness Program
+Female,23,No,Hypertension,Beta Blockers
+Male,32,No,Diabetes,Insulin Therapy
+Female,71,Yes,Heart Disease,Aspirin Therapy
+Male,60,Yes,Asthma,Inhaler Treatment
+Female,77,No,Diabetes,Insulin Therapy
+Male,54,No,Hypertension,Beta Blockers
+Female,50,Yes,Heart Disease,Aspirin Therapy
+Male,25,No,Hypertension,Beta Blockers
+Male,70,No,Hypertension,Beta Blockers
+Female,77,Yes,Heart Disease,Aspirin Therapy
+Male,61,No,Hypertension,Beta Blockers
+Female,61,No,Heart Disease,Aspirin Therapy
+Female,22,Yes,Diabetes,Insulin Therapy
+Female,56,Yes,Heart Disease,Aspirin Therapy
+Female,21,Yes,Heart Disease,Aspirin Therapy
+Female,23,No,Asthma,Inhaler Treatment
+Female,62,Yes,Heart Disease,Aspirin Therapy
+Female,49,Yes,Heart Disease,Aspirin Therapy
+Female,69,Yes,Diabetes,Insulin Therapy
+Female,47,Yes,Asthma,Inhaler Treatment
+Female,64,Yes,None,General Wellness Program
+Female,52,Yes,Diabetes,Insulin Therapy
+Male,72,No,Diabetes,Insulin Therapy
+Male,57,No,None,General Wellness Program
+Female,69,Yes,Heart Disease,Aspirin Therapy
+Female,33,Yes,Hypertension,Beta Blockers
+Female,30,Yes,Asthma,Inhaler Treatment
+Female,67,No,Hypertension,Beta Blockers
+Female,77,No,None,General Wellness Program
+Female,59,No,Diabetes,Insulin Therapy
+Female,47,No,Diabetes,Insulin Therapy
+Female,36,No,Asthma,Inhaler Treatment
+Male,34,No,Diabetes,Insulin Therapy
+Female,73,No,Diabetes,Insulin Therapy
+Male,36,No,Asthma,Inhaler Treatment
+Female,45,No,Asthma,Inhaler Treatment
+Female,75,Yes,None,General Wellness Program
+Male,72,Yes,Diabetes,Insulin Therapy
+Female,43,Yes,Diabetes,Insulin Therapy
+Male,54,Yes,None,General Wellness Program
+Female,43,No,Heart Disease,Aspirin Therapy
+Female,70,No,Heart Disease,Aspirin Therapy
+Male,79,Yes,Heart Disease,Aspirin Therapy
+Female,40,No,None,General Wellness Program
+Male,26,Yes,Diabetes,Insulin Therapy
+Female,29,No,None,General Wellness Program
+Male,70,Yes,None,General Wellness Program
+Male,18,No,Heart Disease,Aspirin Therapy
+Female,75,No,Hypertension,Beta Blockers
+Female,75,Yes,Diabetes,Insulin Therapy
+Male,18,No,Heart Disease,Aspirin Therapy
+Female,64,Yes,Hypertension,Beta Blockers
+Female,51,Yes,Hypertension,Beta Blockers
+Female,49,Yes,Asthma,Inhaler Treatment
+Male,79,Yes,Diabetes,Insulin Therapy
+Male,71,No,Hypertension,Beta Blockers
+Male,65,No,Heart Disease,Aspirin Therapy
+Male,42,No,Asthma,Inhaler Treatment
+Male,57,Yes,Diabetes,Insulin Therapy
+Male,62,No,None,General Wellness Program
+Male,70,Yes,Heart Disease,Aspirin Therapy
+Male,18,No,Hypertension,Beta Blockers
+Male,33,No,Hypertension,Beta Blockers
+Female,78,No,Heart Disease,Aspirin Therapy
+Male,56,Yes,Hypertension,Beta Blockers
+Female,22,No,Asthma,Inhaler Treatment
+Female,39,No,Diabetes,Insulin Therapy
+Female,46,Yes,Asthma,Inhaler Treatment
+Male,72,No,Hypertension,Beta Blockers
+Male,20,Yes,None,General Wellness Program
+Male,29,No,Diabetes,Insulin Therapy
+Male,43,Yes,Diabetes,Insulin Therapy
+Female,33,Yes,Heart Disease,Aspirin Therapy
+Male,68,No,Heart Disease,Aspirin Therapy
+Male,54,Yes,None,General Wellness Program
+Male,39,Yes,Diabetes,Insulin Therapy
+Male,74,Yes,None,General Wellness Program
+Male,46,Yes,Heart Disease,Aspirin Therapy
+Female,31,Yes,Heart Disease,Aspirin Therapy
+Male,45,Yes,Diabetes,Insulin Therapy
+Female,22,No,Asthma,Inhaler Treatment
+Male,64,Yes,Hypertension,Beta Blockers
+Female,66,Yes,Heart Disease,Aspirin Therapy
+Male,47,No,Heart Disease,Aspirin Therapy
+Male,63,No,Asthma,Inhaler Treatment
+Female,79,No,Asthma,Inhaler Treatment
+Female,69,No,None,General Wellness Program
+Female,22,No,None,General Wellness Program
+Male,29,No,Hypertension,Beta Blockers
+Female,33,No,Hypertension,Beta Blockers
+Male,43,Yes,Diabetes,Insulin Therapy
+Male,43,Yes,None,General Wellness Program
+Female,65,No,Heart Disease,Aspirin Therapy
+Female,38,Yes,None,General Wellness Program
+Male,56,Yes,Heart Disease,Aspirin Therapy
+Male,53,Yes,Asthma,Inhaler Treatment
+Female,50,No,None,General Wellness Program
+Female,79,No,Asthma,Inhaler Treatment
+Female,47,Yes,Hypertension,Beta Blockers
+Male,54,No,Hypertension,Beta Blockers
+Male,40,Yes,Diabetes,Insulin Therapy
+Male,75,Yes,None,General Wellness Program
+Male,27,Yes,Asthma,Inhaler Treatment
+Male,71,Yes,Heart Disease,Aspirin Therapy
+Male,22,No,Hypertension,Beta Blockers
+Female,53,No,Hypertension,Beta Blockers
+Male,51,No,Heart Disease,Aspirin Therapy
+Male,69,Yes,Asthma,Inhaler Treatment
+Male,48,No,Asthma,Inhaler Treatment
+Female,27,Yes,None,General Wellness Program
+Male,75,No,None,General Wellness Program
+Male,36,Yes,Diabetes,Insulin Therapy
+Female,75,Yes,Hypertension,Beta Blockers
+Male,49,Yes,None,General Wellness Program
+Male,18,No,Asthma,Inhaler Treatment
+Male,73,No,Heart Disease,Aspirin Therapy
+Male,22,No,Asthma,Inhaler Treatment
+Male,62,No,Hypertension,Beta Blockers
+Female,21,Yes,Asthma,Inhaler Treatment
+Female,33,No,Diabetes,Insulin Therapy
+Female,41,No,Hypertension,Beta Blockers
+Male,33,Yes,Heart Disease,Aspirin Therapy
+Male,72,Yes,Diabetes,Insulin Therapy
+Male,19,Yes,Hypertension,Beta Blockers
+Female,66,No,Heart Disease,Aspirin Therapy
+Male,45,Yes,Diabetes,Insulin Therapy
+Male,49,Yes,Diabetes,Insulin Therapy
+Female,44,Yes,Hypertension,Beta Blockers
+Male,37,No,None,General Wellness Program
+Female,41,Yes,Diabetes,Insulin Therapy
+Female,29,No,Diabetes,Insulin Therapy
+Female,67,No,Heart Disease,Aspirin Therapy
+Male,52,Yes,Asthma,Inhaler Treatment
+Male,77,Yes,Hypertension,Beta Blockers
+Male,50,No,Hypertension,Beta Blockers
+Male,50,Yes,None,General Wellness Program
+Male,78,Yes,None,General Wellness Program
+Male,68,No,Hypertension,Beta Blockers
+Male,60,No,None,General Wellness Program
+Female,54,Yes,Heart Disease,Aspirin Therapy
+Male,29,No,Hypertension,Beta Blockers
+Female,20,Yes,None,General Wellness Program
+Male,18,Yes,Hypertension,Beta Blockers
+Male,50,Yes,Asthma,Inhaler Treatment
+Male,57,No,Diabetes,Insulin Therapy
+Female,27,Yes,Hypertension,Beta Blockers
+Female,60,Yes,Diabetes,Insulin Therapy
+Female,61,Yes,None,General Wellness Program
+Female,46,No,Diabetes,Insulin Therapy
+Male,30,No,Hypertension,Beta Blockers
+Female,29,No,Asthma,Inhaler Treatment
+Male,48,No,None,General Wellness Program
+Male,63,No,Hypertension,Beta Blockers
+Female,19,Yes,None,General Wellness Program
+Female,78,No,Heart Disease,Aspirin Therapy
+Female,68,No,Diabetes,Insulin Therapy
+Female,67,No,Heart Disease,Aspirin Therapy
+Female,52,Yes,Hypertension,Beta Blockers
+Female,40,No,Asthma,Inhaler Treatment
+Female,34,No,None,General Wellness Program
+Female,43,Yes,Diabetes,Insulin Therapy
+Male,25,No,None,General Wellness Program
+Female,46,Yes,Hypertension,Beta Blockers
+Female,43,Yes,None,General Wellness Program
+Male,27,Yes,Diabetes,Insulin Therapy
+Female,43,Yes,Hypertension,Beta Blockers
+Male,79,Yes,None,General Wellness Program
+Male,51,No,Asthma,Inhaler Treatment
+Female,68,Yes,Hypertension,Beta Blockers
+Male,58,Yes,Hypertension,Beta Blockers
+Male,24,No,Asthma,Inhaler Treatment
+Male,21,Yes,Heart Disease,Aspirin Therapy
+Male,75,No,Diabetes,Insulin Therapy
+Female,70,No,Heart Disease,Aspirin Therapy
+Male,67,No,None,General Wellness Program
+Female,62,Yes,Asthma,Inhaler Treatment
+Male,28,Yes,Heart Disease,Aspirin Therapy
+Male,46,Yes,Hypertension,Beta Blockers
+Male,73,No,None,General Wellness Program
+Male,53,Yes,None,General Wellness Program
+Female,42,Yes,Heart Disease,Aspirin Therapy
+Female,38,Yes,Heart Disease,Aspirin Therapy
+Male,78,No,Asthma,Inhaler Treatment
+Male,74,No,Diabetes,Insulin Therapy
+Female,53,Yes,Heart Disease,Aspirin Therapy
+Male,27,Yes,Heart Disease,Aspirin Therapy
+Male,54,Yes,Hypertension,Beta Blockers
+Male,26,Yes,None,General Wellness Program
+Female,41,No,Diabetes,Insulin Therapy
+Female,52,No,Hypertension,Beta Blockers
+Female,66,No,Asthma,Inhaler Treatment
+Male,52,No,Asthma,Inhaler Treatment
+Male,65,Yes,Heart Disease,Aspirin Therapy
+Female,53,Yes,Heart Disease,Aspirin Therapy
+Female,35,Yes,Asthma,Inhaler Treatment
+Female,66,No,Heart Disease,Aspirin Therapy
+Female,56,Yes,Diabetes,Insulin Therapy
+Male,49,No,Heart Disease,Aspirin Therapy
+Female,41,No,None,General Wellness Program
+Male,40,Yes,Heart Disease,Aspirin Therapy
+Female,79,Yes,Hypertension,Beta Blockers
+Male,49,Yes,Diabetes,Insulin Therapy
+Female,54,No,Hypertension,Beta Blockers
+Female,29,Yes,Hypertension,Beta Blockers
+Female,66,No,None,General Wellness Program
+Female,72,Yes,Diabetes,Insulin Therapy
+Male,30,No,Diabetes,Insulin Therapy
+Female,40,No,Diabetes,Insulin Therapy
+Male,42,Yes,Diabetes,Insulin Therapy
+Male,52,No,Diabetes,Insulin Therapy
+Male,58,No,None,General Wellness Program
+Male,47,Yes,Heart Disease,Aspirin Therapy
+Female,34,No,Hypertension,Beta Blockers
+Male,66,Yes,Diabetes,Insulin Therapy
+Male,79,No,Heart Disease,Aspirin Therapy
+Male,37,Yes,Heart Disease,Aspirin Therapy
+Female,65,Yes,Hypertension,Beta Blockers
+Female,42,No,None,General Wellness Program
+Female,39,No,Asthma,Inhaler Treatment
+Female,30,No,Asthma,Inhaler Treatment
+Male,76,No,Heart Disease,Aspirin Therapy
+Male,36,No,Hypertension,Beta Blockers
+Female,66,Yes,Asthma,Inhaler Treatment
+Male,53,No,Heart Disease,Aspirin Therapy
+Male,29,Yes,None,General Wellness Program
+Male,78,Yes,Asthma,Inhaler Treatment
+Female,58,No,Heart Disease,Aspirin Therapy
+Female,36,Yes,Heart Disease,Aspirin Therapy
+Male,29,Yes,Diabetes,Insulin Therapy
+Female,26,Yes,None,General Wellness Program
+Female,24,Yes,Diabetes,Insulin Therapy
+Female,45,No,Hypertension,Beta Blockers
+Female,31,Yes,Diabetes,Insulin Therapy
+Female,48,No,Diabetes,Insulin Therapy
+Male,69,No,Asthma,Inhaler Treatment
+Female,36,Yes,Heart Disease,Aspirin Therapy
+Male,75,No,None,General Wellness Program
+Male,64,No,Diabetes,Insulin Therapy
+Female,33,No,None,General Wellness Program
+Male,70,Yes,Diabetes,Insulin Therapy
+Male,22,No,Hypertension,Beta Blockers
+Male,52,No,Diabetes,Insulin Therapy
+Female,29,No,Asthma,Inhaler Treatment
+Female,42,Yes,Heart Disease,Aspirin Therapy
+Male,69,No,Hypertension,Beta Blockers
+Female,76,Yes,Diabetes,Insulin Therapy
+Female,38,Yes,None,General Wellness Program
+Female,53,Yes,Hypertension,Beta Blockers
+Female,70,Yes,Hypertension,Beta Blockers
+Male,40,Yes,Diabetes,Insulin Therapy
+Male,33,Yes,Hypertension,Beta Blockers
+Female,74,No,None,General Wellness Program
+Female,56,Yes,Hypertension,Beta Blockers
+Male,62,No,None,General Wellness Program
+Male,70,No,Diabetes,Insulin Therapy
+Female,59,Yes,Heart Disease,Aspirin Therapy
+Male,75,No,Hypertension,Beta Blockers
+Female,56,No,Heart Disease,Aspirin Therapy
+Female,31,No,None,General Wellness Program
+Male,48,No,Hypertension,Beta Blockers
+Male,75,Yes,Asthma,Inhaler Treatment
+Female,22,No,Heart Disease,Aspirin Therapy
+Female,52,Yes,Hypertension,Beta Blockers
+Male,40,No,Heart Disease,Aspirin Therapy
+Female,46,No,Hypertension,Beta Blockers
+Male,60,Yes,Diabetes,Insulin Therapy
+Female,28,No,Heart Disease,Aspirin Therapy
+Male,35,No,Asthma,Inhaler Treatment
+Male,64,No,Asthma,Inhaler Treatment
+Male,29,Yes,None,General Wellness Program
+Female,26,No,Hypertension,Beta Blockers
+Female,27,Yes,Heart Disease,Aspirin Therapy
+Male,75,No,None,General Wellness Program
+Female,61,Yes,Heart Disease,Aspirin Therapy
+Male,34,Yes,Hypertension,Beta Blockers
+Male,78,No,Asthma,Inhaler Treatment
+Female,55,No,Diabetes,Insulin Therapy
+Female,24,Yes,Asthma,Inhaler Treatment
+Male,63,Yes,None,General Wellness Program
+Female,30,No,Diabetes,Insulin Therapy
+Female,57,Yes,None,General Wellness Program
+Male,59,No,Hypertension,Beta Blockers
+Male,26,No,Diabetes,Insulin Therapy
+Female,67,No,None,General Wellness Program
+Male,44,No,Hypertension,Beta Blockers
+Male,75,Yes,Asthma,Inhaler Treatment
+Female,19,No,Hypertension,Beta Blockers
+Male,22,Yes,Heart Disease,Aspirin Therapy
+Male,46,No,Hypertension,Beta Blockers
+Female,54,Yes,Hypertension,Beta Blockers
+Female,55,No,Heart Disease,Aspirin Therapy
+Male,36,Yes,None,General Wellness Program
+Male,25,Yes,None,General Wellness Program
+Female,65,No,Hypertension,Beta Blockers
+Female,62,No,Heart Disease,Aspirin Therapy
+Female,18,No,Heart Disease,Aspirin Therapy
+Female,39,No,Asthma,Inhaler Treatment
+Male,69,Yes,None,General Wellness Program
+Female,34,No,Diabetes,Insulin Therapy
+Female,24,Yes,None,General Wellness Program
+Male,42,Yes,None,General Wellness Program
+Female,62,No,Asthma,Inhaler Treatment
+Male,21,Yes,Diabetes,Insulin Therapy
+Female,53,Yes,Asthma,Inhaler Treatment
+Female,23,Yes,Diabetes,Insulin Therapy
+Female,77,Yes,Hypertension,Beta Blockers
+Male,48,No,Diabetes,Insulin Therapy
+Male,36,No,Asthma,Inhaler Treatment
+Female,78,No,None,General Wellness Program
+Male,61,No,Diabetes,Insulin Therapy
+Male,71,Yes,Diabetes,Insulin Therapy
+Male,56,Yes,Heart Disease,Aspirin Therapy
+Male,44,No,None,General Wellness Program
+Male,27,No,Hypertension,Beta Blockers
+Male,43,No,Asthma,Inhaler Treatment
+Female,36,Yes,Hypertension,Beta Blockers
+Female,56,No,None,General Wellness Program
+Male,79,No,Diabetes,Insulin Therapy
+Female,20,No,Diabetes,Insulin Therapy
+Female,62,Yes,None,General Wellness Program
+Female,30,Yes,Diabetes,Insulin Therapy
+Female,67,Yes,Diabetes,Insulin Therapy
+Male,45,Yes,Diabetes,Insulin Therapy
+Female,79,Yes,Asthma,Inhaler Treatment
+Female,75,Yes,Asthma,Inhaler Treatment
+Male,37,Yes,Heart Disease,Aspirin Therapy
+Male,45,Yes,Hypertension,Beta Blockers
+Female,25,No,None,General Wellness Program
+Female,78,No,None,General Wellness Program
+Female,58,Yes,None,General Wellness Program
+Female,56,Yes,Heart Disease,Aspirin Therapy
+Female,18,No,Asthma,Inhaler Treatment
+Female,20,Yes,Heart Disease,Aspirin Therapy
+Male,30,Yes,None,General Wellness Program
+Female,45,Yes,Hypertension,Beta Blockers
+Female,79,No,Diabetes,Insulin Therapy
+Male,74,No,Asthma,Inhaler Treatment
+Male,77,No,Asthma,Inhaler Treatment
+Male,66,No,Heart Disease,Aspirin Therapy
+Male,42,No,Asthma,Inhaler Treatment
+Female,73,Yes,None,General Wellness Program
+Female,50,No,None,General Wellness Program
+Female,55,Yes,Heart Disease,Aspirin Therapy
+Female,70,Yes,None,General Wellness Program
+Female,23,No,Hypertension,Beta Blockers
+Female,75,No,Heart Disease,Aspirin Therapy
+Male,61,Yes,Hypertension,Beta Blockers
+Female,62,Yes,Diabetes,Insulin Therapy
+Male,49,Yes,Hypertension,Beta Blockers
+Male,62,No,Diabetes,Insulin Therapy
+Female,78,No,Diabetes,Insulin Therapy
+Male,64,No,Hypertension,Beta Blockers
+Female,38,No,Heart Disease,Aspirin Therapy
+Male,33,No,None,General Wellness Program
+Female,71,Yes,None,General Wellness Program
+Male,38,No,Diabetes,Insulin Therapy
+Female,28,Yes,Diabetes,Insulin Therapy
+Female,77,Yes,Heart Disease,Aspirin Therapy
+Female,54,Yes,Asthma,Inhaler Treatment
+Female,53,No,Hypertension,Beta Blockers
+Female,52,No,Diabetes,Insulin Therapy
+Male,36,No,None,General Wellness Program
+Male,37,Yes,Heart Disease,Aspirin Therapy
+Male,74,Yes,Hypertension,Beta Blockers
+Female,35,Yes,Heart Disease,Aspirin Therapy
+Male,64,Yes,Hypertension,Beta Blockers
+Female,58,Yes,Hypertension,Beta Blockers
+Female,66,Yes,Diabetes,Insulin Therapy
+Male,31,No,Heart Disease,Aspirin Therapy
+Male,32,No,Heart Disease,Aspirin Therapy
+Female,48,No,None,General Wellness Program
+Male,18,No,None,General Wellness Program
+Female,70,Yes,Diabetes,Insulin Therapy
+Female,71,Yes,Diabetes,Insulin Therapy
+Female,71,No,Asthma,Inhaler Treatment
+Female,20,Yes,None,General Wellness Program
+Female,33,No,Hypertension,Beta Blockers
+Male,40,No,Heart Disease,Aspirin Therapy
+Male,74,No,Diabetes,Insulin Therapy
+Female,28,Yes,Heart Disease,Aspirin Therapy
+Female,29,No,Heart Disease,Aspirin Therapy
+Male,27,No,Asthma,Inhaler Treatment
+Male,49,No,None,General Wellness Program
+Female,33,Yes,Diabetes,Insulin Therapy
+Male,25,Yes,Heart Disease,Aspirin Therapy
+Female,55,No,Diabetes,Insulin Therapy
+Male,29,Yes,Hypertension,Beta Blockers
+Female,41,Yes,Asthma,Inhaler Treatment
+Male,45,Yes,Hypertension,Beta Blockers
+Female,70,Yes,Diabetes,Insulin Therapy
+Male,25,Yes,Diabetes,Insulin Therapy
+Male,75,Yes,None,General Wellness Program
+Female,45,Yes,Heart Disease,Aspirin Therapy
+Male,53,Yes,Heart Disease,Aspirin Therapy
+Female,43,Yes,Hypertension,Beta Blockers
+Male,25,Yes,Asthma,Inhaler Treatment
+Female,75,No,Heart Disease,Aspirin Therapy
+Male,77,No,None,General Wellness Program
+Female,67,Yes,Hypertension,Beta Blockers
+Male,45,No,Hypertension,Beta Blockers
+Female,45,No,None,General Wellness Program
+Male,54,Yes,Asthma,Inhaler Treatment
+Female,58,Yes,None,General Wellness Program
+Female,53,Yes,Asthma,Inhaler Treatment
+Female,44,No,None,General Wellness Program
+Male,71,No,None,General Wellness Program
+Female,34,Yes,Diabetes,Insulin Therapy
+Male,26,Yes,Hypertension,Beta Blockers
+Female,50,Yes,None,General Wellness Program
+Male,70,No,None,General Wellness Program
+Female,37,No,Heart Disease,Aspirin Therapy
+Male,30,No,Hypertension,Beta Blockers
+Male,45,No,Heart Disease,Aspirin Therapy
+Female,65,Yes,Hypertension,Beta Blockers
+Male,46,Yes,Heart Disease,Aspirin Therapy
+Male,30,Yes,None,General Wellness Program
+Female,63,Yes,None,General Wellness Program
+Male,52,No,Diabetes,Insulin Therapy
+Male,78,No,Heart Disease,Aspirin Therapy
+Male,23,Yes,Asthma,Inhaler Treatment
+Female,35,Yes,Diabetes,Insulin Therapy
+Male,68,No,Heart Disease,Aspirin Therapy
+Female,22,Yes,Heart Disease,Aspirin Therapy
